@@ -5,23 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8435b69-3292-4bad-80a7-11bd29d695b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-consumer-database/kafka-consumer-database.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-consumer-database/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-consumer-database/src/main/java/net/cathy/springboot/KafkadatabaseConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-consumer-database/src/main/java/net/cathy/springboot/SpringBootConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-consumer-database/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_3_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-consumer-database/src/main/java/net/cathy/springboot/entity/WikimediaData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-consumer-database/src/main/java/net/cathy/springboot/repository/WikimediaDataRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-producer-w/src/main/java/cathy/springboot/WikimediaChangesProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-w/src/main/java/cathy/springboot/WikimediaChangesProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-producer-w/target/classes/cathy/springboot/WikimediaChangesProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-w/target/classes/cathy/springboot/WikimediaChangesProducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-producer-w/target/kafka-producer-w-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-w/target/kafka-producer-w-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-producer-w/target/kafka-producer-w-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-w/target/kafka-producer-w-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-producer-w/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-w/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-producer-w/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-w/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-database/kafka-consumer-database.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-database/kafka-consumer-database.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-database/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-database/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-database/src/main/java/net/cathy/springboot/KafkadatabaseConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-database/src/main/java/net/cathy/springboot/KafkadatabaseConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-database/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-database/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-consumer-database/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-consumer-database/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +46,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -65,7 +80,7 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootConsumerApplication">
+  <component name="RunManager" selected="Spring Boot.SpringBootProducerApplication">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,7 +144,7 @@
       <updated>1659829639000</updated>
       <workItem from="1659829644684" duration="10000" />
       <workItem from="1659829669948" duration="1959000" />
-      <workItem from="1659831750467" duration="8925000" />
+      <workItem from="1659831750467" duration="11083000" />
     </task>
     <servers />
   </component>
