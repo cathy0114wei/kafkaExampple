@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="kafka-producer-w" target="17" />
+      <module name="kafka-producer-w" target="11" />
       <module name="kafkaExample" target="17" />
     </bytecodeTargetLevel>
   </component>
