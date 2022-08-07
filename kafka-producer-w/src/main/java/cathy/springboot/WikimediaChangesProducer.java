@@ -21,12 +21,12 @@ public class WikimediaChangesProducer {
 
     private KafkaTemplate<String, String> kafkaTemplate;
 //@Bean
-    public WikimediaChangesProducer(KafkaTemplate<String, String> kafkaTemplate) {
+    public WikimediaChangesProducer(KafkaTemplate<String, String> kafkaTemplate) {//this is not an error, just leave it here
         this.kafkaTemplate = kafkaTemplate;
     }
 
     public void sendMessage() throws InterruptedException {
-        String topic = "wikimedia_recentchanges";
+        String topic = "wikimedia_recentchange";
 
         EventHandler eventHandler = new WikimediaChangesHandler(kafkaTemplate, topic);
         String url = "https://stream.wikimedia.org/v2/stream/recentchange";

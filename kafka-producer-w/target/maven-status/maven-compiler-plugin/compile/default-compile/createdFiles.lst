@@ -1,1 +1,4 @@
+cathy/springboot/WikimediaChangesProducer.class
 cathy/springboot/SpringBootProducerApplication.class
+cathy/springboot/KafkaTopicConfig.class
+cathy/springboot/WikimediaChangesHandler.class
